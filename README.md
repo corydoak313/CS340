@@ -1,2 +1,13 @@
 # CS340
 CS340: Client/Server Development
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Writing programs that are readable and maintainable would be organized and clean. In other words, the code would be easy to navigate without confusion about where one line of code ends and where another would begin. In addition to this, it would be spaced out based on the functionality of the code so it is visible to the reader what is being performed and that it can also be adjusted without having to rewrite the entire code. When creating the CRUD Python module, I was able to ensure the code was readable by following these practices. This module could be used to update or add more data and be able to use the same format to build more aspects of the program. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+As a computer scientist, it is good to approach a problem with an open mind that anything could be the issue. Looking at the basics such as syntax errors and using proper variable names can save a lot of time on debugging. Taking each requirement one at a time and breaking it down on how the clients wanted it to be built helped me keep a level head on beginning the project. Projects like this are time-consuming and can be very overwhelming which is why I find it best to start earlier rather than later especially for the amount of issues a beginner will encounter. Now that I have a minor understanding of database creation, I will be able to incorporate a vast amount of information into a project simply. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists utilize the brains of computers to develop and navigate through programs and turn them into usable tools for others. This matters because without them we would be riding animals to work still, dying of plagues, and at a standstill of evolvement. My work on this type of project, with more practice and training, will help companies evolve and grow as we use their databases to accomplish end goals quicker and more efficiently. 
